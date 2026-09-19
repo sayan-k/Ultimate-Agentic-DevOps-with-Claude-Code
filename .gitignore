@@ -1,3 +1,2 @@
-.terraform/
-*.tfstate
-*.tfstate.*
+.terraform
+.claude/settings.local.json
